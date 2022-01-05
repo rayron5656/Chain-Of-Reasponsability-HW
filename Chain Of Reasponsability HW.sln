@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain Of Reasponsability HW", "Chain Of Reasponsability HW\Chain Of Reasponsability HW.csproj", "{77690494-43C7-4395-A117-27AA6F9B445B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77690494-43C7-4395-A117-27AA6F9B445B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77690494-43C7-4395-A117-27AA6F9B445B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77690494-43C7-4395-A117-27AA6F9B445B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77690494-43C7-4395-A117-27AA6F9B445B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB06A222-5D1F-462B-8410-9AB49E67D6E5}
+	EndGlobalSection
+EndGlobal
